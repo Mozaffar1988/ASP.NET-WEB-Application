@@ -1,0 +1,6 @@
+D:\UIU\Basis Home Work\ASP.NET WEB Application\PLManagementApp\PLManagementApp\bin\PLManagementApp.dll.config
+D:\UIU\Basis Home Work\ASP.NET WEB Application\PLManagementApp\PLManagementApp\bin\PLManagementApp.dll
+D:\UIU\Basis Home Work\ASP.NET WEB Application\PLManagementApp\PLManagementApp\bin\PLManagementApp.pdb
+D:\UIU\Basis Home Work\ASP.NET WEB Application\PLManagementApp\PLManagementApp\obj\Release\PLManagementApp.csprojResolveAssemblyReference.cache
+D:\UIU\Basis Home Work\ASP.NET WEB Application\PLManagementApp\PLManagementApp\obj\Release\PLManagementApp.dll
+D:\UIU\Basis Home Work\ASP.NET WEB Application\PLManagementApp\PLManagementApp\obj\Release\PLManagementApp.pdb

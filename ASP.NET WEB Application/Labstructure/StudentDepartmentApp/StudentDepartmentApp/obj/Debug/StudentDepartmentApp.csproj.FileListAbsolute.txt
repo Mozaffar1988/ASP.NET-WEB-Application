@@ -1,0 +1,6 @@
+D:\UIU\Basis Home Work\ASP.NET WEB Application\StudentDepartmentApp\StudentDepartmentApp\bin\StudentDepartmentApp.dll.config
+D:\UIU\Basis Home Work\ASP.NET WEB Application\StudentDepartmentApp\StudentDepartmentApp\bin\StudentDepartmentApp.dll
+D:\UIU\Basis Home Work\ASP.NET WEB Application\StudentDepartmentApp\StudentDepartmentApp\bin\StudentDepartmentApp.pdb
+D:\UIU\Basis Home Work\ASP.NET WEB Application\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.csprojResolveAssemblyReference.cache
+D:\UIU\Basis Home Work\ASP.NET WEB Application\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.dll
+D:\UIU\Basis Home Work\ASP.NET WEB Application\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.pdb

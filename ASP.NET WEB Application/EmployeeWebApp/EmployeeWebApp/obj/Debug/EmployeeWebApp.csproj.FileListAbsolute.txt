@@ -1,0 +1,16 @@
+D:\UIU\Basis Home Work\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.dll.config
+D:\UIU\Basis Home Work\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.dll
+D:\UIU\Basis Home Work\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.pdb
+D:\UIU\Basis Home Work\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.dll
+D:\UIU\Basis Home Work\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.pdb
+C:\Users\BITM-301-PC\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.dll.config
+C:\Users\BITM-301-PC\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.dll
+C:\Users\BITM-301-PC\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.pdb
+C:\Users\BITM-301-PC\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.dll
+C:\Users\BITM-301-PC\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.pdb
+C:\Users\Mozaffar\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Mozaffar\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.dll
+C:\Users\Mozaffar\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.dll.config
+C:\Users\Mozaffar\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.dll
+C:\Users\Mozaffar\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\bin\EmployeeWebApp.pdb
+C:\Users\Mozaffar\Desktop\ASP.NET WEB Application\EmployeeWebApp\EmployeeWebApp\obj\Debug\EmployeeWebApp.pdb
